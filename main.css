@@ -7,7 +7,7 @@
 }
 body{
     min-height: 100vh;
-    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background: linear-gradient(to right top, #020b18, #004d7a, #77dce6, #66deae, #aae331);
 }
 form{
     background: #bebebe;
@@ -42,7 +42,7 @@ h1{
     width: 100%;
     border: none;
     outline: none;
-    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background: linear-gradient(to right top, #794101, #e17c16, #d2823d, #f3aa61, #ebb986);
     background-size: 200%;
     color: white;
     font-size: 16px;
